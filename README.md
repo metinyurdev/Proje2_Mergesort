@@ -1,7 +1,11 @@
 # Proje2_Mergesort
 Veri Yapıları ve Algoritmalar Mergesort Projesi
 
-Öncelikle verilen dizideki tüm elemanlar bölünür. Daha sonra sayılar sıralanarak birleştirilir.
+Öncelikle verilen dizideki tüm elemanlar tek başına kalana kadar bölünür. Daha sonra, dizideki sayılar sıralanarak birleştirilir. En sonunda sıralı dizi ortaya çıkar.
+
+Mergesort sıralama algoritmasının karmaşıklık analizi ise n(log(n)) dir.
+
+Big-O: O(n(log(n)))
 
 Aşağıda bütün adımlar gösterilmiştir.
 
